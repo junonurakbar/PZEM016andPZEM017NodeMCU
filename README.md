@@ -12,7 +12,11 @@ tools you need:
   - micro SD card module reader/writer
   - micro SD <= 2 GB or micro SD SDHC <= 32 GB
 
-libraries you need:
+programs you need:
+  - Arduino IDE
+  - XAMPP
+
+libraries you need (for ArduinoIDE):
   - RTC DS3231 by Andrew Wickert (Arduino IDE -> Skecth -> Include Library -> Manage Libraries)
   - NTP Client library forked by Taranais
   - ModbusMaster Library
