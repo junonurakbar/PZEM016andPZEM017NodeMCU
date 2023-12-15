@@ -1,5 +1,5 @@
 # Photovoltaic Monitoring System 
-Solar Power monitoring using Arduino, MySQL, and Apache
+Photovoltaic monitoring using Arduino, MySQL, and Apache
 
 # Disclaimer!
 I assume that you have knowledge about electrical in photovoltaic system because you will deal with high voltage to measure solar panel and i will take no responsibilities if something happened to you. Safety comes first '-')/
