@@ -1,4 +1,4 @@
-# Solar Panel Monitoring 
+# Photovoltaic Monitoring System 
 Solar Power monitoring using Arduino, MySQL, and Apache
 
 # Disclaimer!
